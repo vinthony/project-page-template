@@ -191,18 +191,18 @@ a:after{
   bottom: 0;
   transition:top 200ms cubic-bezier(0, 0.8, 0.13, 1);
   /*background-color: rgba(225, 166, 121, 0.5);*/
-  background-color: rgba(255,211,30, 0.5);
+  background-color: rgba(255,211,30, 0.4);
 }
 .emojilink:after{
   background-color: rgba(255,211,30, 0.0) 
   /*rgba(225, 166, 121, 0.0);*/
 }
 a:hover{
-  color:rgb(255, 180, 240);
+  color: black;
   text-decoration: none;
 }
 a:hover:after{
-  color:rgb(255, 180, 240);
+  color:black;
   /*color: #111;*/
   text-decoration: none;
   top:0%;
