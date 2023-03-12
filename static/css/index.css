@@ -29,7 +29,6 @@ body {
 
 
 .publication-title {
-  font-size: 28px;
 }
 
 .publication-banner {
@@ -72,9 +71,9 @@ body {
 }
 
 .author-block {
-  display: inline-block;
-  padding: 0 5px;
   font-size: 16px;
+  padding: 0 5px;
+  display: inline-block;
 }
 
 .publication-banner img {
@@ -161,10 +160,10 @@ b{
 }
 .xtitle{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 24px;
+    font-size: 30px;
     text-align: center;
-    margin: 10px 0;
-    font-weight: 400;
+    /* margin: 10px 0; */
+    /* font-weight: 400; */
     /*color: rgb(0, 79, 241);*/
 }
 
