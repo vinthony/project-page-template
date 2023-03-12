@@ -29,6 +29,7 @@ body {
 
 
 .publication-title {
+  font-size: 28px;
 }
 
 .publication-banner {
@@ -72,6 +73,8 @@ body {
 
 .author-block {
   display: inline-block;
+  padding: 0 5px;
+  font-size: 16px;
 }
 
 .publication-banner img {
