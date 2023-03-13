@@ -1,6 +1,14 @@
 # Academic Project Page Template
 This is an academic paper project page template, modified from [my homepage](http://vinthony.github.io/) and [this project](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
+Demo project is [here](https://vinthony.github.io/project-page-template/)
+
+see also our recent paper:
+
+- [SadTalker (CVPR 2023)](https://sadtalker.github.io/)
+- [Video ReTalking (SIGGRAPH Asia 2022, Conference Track)](https://vinthony.github.io/video-retalking/)
+
+
 ## changelog
 
 - 2023-03-13 13:38:02: support the latex formula rendering from MathJax
