@@ -1,4 +1,4 @@
-# 🧸 YAAPPT: Yet Another Academic Project Page Template
+### 🧸 YAAPPT: Yet Another Academic Project Page Template
 This is an academic paper project page template, modified from [my homepage](http://vinthony.github.io/) and [this project](https://github.com/eliahuhorwitz/Academic-project-page-template).
 ![224684243-01f15ea7-bcfa-41d9-95ac-c2c1766f159c](https://user-images.githubusercontent.com/4397546/224684840-eaebd628-c454-46a5-a7a5-611395bb1ac7.png)
 
