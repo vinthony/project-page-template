@@ -1,9 +1,11 @@
 # 🧸 YAAPPT: Yet Another Academic Project Page Template
 This is an academic paper project page template, modified from [my homepage](http://vinthony.github.io/) and [this project](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
-Demo project is [here](https://vinthony.github.io/project-page-template/)
+![Screen](https://user-images.githubusercontent.com/4397546/224684243-01f15ea7-bcfa-41d9-95ac-c2c1766f159c.png)
 
-see also the project page of our recent paper:
+Demo project is [here](https://vinthony.github.io/project-page-template/)!
+
+See also the project page of our recent paper:
 
 - [SadTalker (CVPR 2023)](https://sadtalker.github.io/)
 - [Video ReTalking (SIGGRAPH Asia 2022, Conference Track)](https://vinthony.github.io/video-retalking/)
