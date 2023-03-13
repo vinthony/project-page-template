@@ -3,7 +3,7 @@ This is an academic paper project page template, modified from [my homepage](htt
 
 Demo project is [here](https://vinthony.github.io/project-page-template/)
 
-see also our recent paper:
+see also the project page of our recent paper:
 
 - [SadTalker (CVPR 2023)](https://sadtalker.github.io/)
 - [Video ReTalking (SIGGRAPH Asia 2022, Conference Track)](https://vinthony.github.io/video-retalking/)
