@@ -1,6 +1,10 @@
 # Academic Project Page Template
 This is an academic paper project page template, modified from [my homepage](http://vinthony.github.io/) and [this project](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
+## changelog
+
+- 2023-03-13 13:38:02: support the latex formula rendering from MathJax
+
 
 ## Start using the template
 To start using the template click on `Use this Template`.
@@ -17,6 +21,9 @@ To edit the websites contents edit the `index.html` file. It contains different 
 - Bibtex citation
 
 ## Tips:
+
+<details><summary>CLICK ME</summary>
+
 - The `index.html` file contains comments instructing you what to replace, you should follow these comments.
 - The `meta` tags in the `index.html` file are used to provide metadata about your paper 
 (e.g. helping search engine index the website, showing a preview image when sharing the website, etc.)
@@ -27,6 +34,8 @@ To edit the websites contents edit the `index.html` file. It contains different 
 - This project page can also be made into a github pages website.
 - Replace the favicon to one of your choosing (the default one is of the Hebrew University). 
 - Suggestions, improvements and comments are welcome, simply open an issue or contact me. You can find my contact information at [https://pages.cs.huji.ac.il/eliahu-horwitz/](https://pages.cs.huji.ac.il/eliahu-horwitz/)
+
+</details>
 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
