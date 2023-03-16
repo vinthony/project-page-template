@@ -3,7 +3,8 @@ This is an academic paper project page template, modified from [my homepage](htt
 
 ## changelog
 
-- 2023-03-13 13:38:02: support the latex formula rendering from MathJax
+- 2023-03-16: support scoring marquee items
+- 2023-03-13: support the latex formula rendering from MathJax
 
 
 ## Start using the template
@@ -19,6 +20,7 @@ To edit the websites contents edit the `index.html` file. It contains different 
 - Video Carousel
 - PDF Poster
 - Bibtex citation
+- marquee items
 
 ## Tips:
 
