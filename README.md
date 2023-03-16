@@ -1,19 +1,30 @@
-# Academic Project Page Template
+## 🧸 YAAPPT: Yet Another Academic Project Page Template
 This is an academic paper project page template, modified from [my homepage](http://vinthony.github.io/) and [this project](https://github.com/eliahuhorwitz/Academic-project-page-template).
+![224684243-01f15ea7-bcfa-41d9-95ac-c2c1766f159c](https://user-images.githubusercontent.com/4397546/224684840-eaebd628-c454-46a5-a7a5-611395bb1ac7.png)
 
-## changelog
+
+
+Demo project is [here](https://vinthony.github.io/project-page-template/)!
+
+See also the project page of our recent paper:
+
+- [SadTalker (CVPR 2023)](https://sadtalker.github.io/)
+- [Video ReTalking (SIGGRAPH Asia 2022, Conference Track)](https://vinthony.github.io/video-retalking/)
+
+
+### 📜 Changelog
 
 - 2023-03-16: support scoring marquee items
 - 2023-03-13: support the latex formula rendering from MathJax
 
 
-## Start using the template
+### 💈 Start using the template
 To start using the template click on `Use this Template`.
 
 The template uses html for controlling the content and css for controlling the style. 
 To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
 
-## Components
+### 🎏 Components
 - Teaser video
 - Images Carousel
 - Youtube embedding
@@ -22,7 +33,7 @@ To edit the websites contents edit the `index.html` file. It contains different 
 - Bibtex citation
 - marquee items
 
-## Tips:
+### 🚩 Tips:
 
 <details><summary>CLICK ME</summary>
 
@@ -39,8 +50,8 @@ To edit the websites contents edit the `index.html` file. It contains different 
 
 </details>
 
-## Acknowledgments
-Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
+### 💗 Acknowledgments
+Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page and [eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
-## Website License
+### ⚖️ Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
