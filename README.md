@@ -1,10 +1,19 @@
 ## 🧸 YAAPPT: Yet Another Academic Project Page Template
 This is an academic paper project page template, modified from [my homepage](http://vinthony.github.io/) and [this project](https://github.com/eliahuhorwitz/Academic-project-page-template).
+
+Style1:
 ![224684243-01f15ea7-bcfa-41d9-95ac-c2c1766f159c](https://user-images.githubusercontent.com/4397546/224684840-eaebd628-c454-46a5-a7a5-611395bb1ac7.png)
 
 
+Style2:
+![image](https://github.com/vinthony/project-page-template/assets/4397546/3117943f-1ce0-43cc-ba9b-4f7ca20851b4)
 
-Demo project is [here](https://vinthony.github.io/project-page-template/)!
+
+
+Style1 Demo project is [here](https://vinthony.github.io/project-page-template/)!
+
+Style2 Demo project is [here](https://vinthony.github.io/project-page-template/style2.html)!
+
 
 See also the project page of our recent paper:
 
@@ -14,6 +23,7 @@ See also the project page of our recent paper:
 
 ### 📜 Changelog
 
+- 2023-10-20: add style2 with a background video.
 - 2023-03-16: support scoring marquee items
 - 2023-03-13: support the latex formula rendering from MathJax
 
@@ -21,8 +31,8 @@ See also the project page of our recent paper:
 ### 💈 Start using the template
 To start using the template click on `Use this Template`.
 
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
+The template uses html to control the content and css to control the style. 
+To edit the website contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
 
 ### 🎏 Components
 - Teaser video
