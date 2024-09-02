@@ -1,0 +1,341 @@
+
+.footer .icon-link {
+    font-size: 25px;
+    color: #000;
+}
+
+.link-block a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.dnerf {
+  font-variant: small-caps;
+}
+
+
+.teaser .hero-body {
+  padding-top: 0;
+  padding-bottom: 3rem;
+}
+
+.teaser {
+  font-family: 'Google Sans', sans-serif;
+}
+
+
+.publication-title {
+  font-size: 60px;
+}
+
+.publication-banner {
+  max-height: parent;
+
+}
+
+.publication-banner video {
+  position: relative;
+  left: auto;
+  top: auto;
+  transform: none;
+  object-fit: fit;
+}
+
+.publication-header .hero-body {
+}
+
+.publication-title {
+    font-family: 'Google Sans', sans-serif;
+}
+
+.publication-authors {
+    font-family: 'Google Sans', sans-serif;
+}
+
+.publication-venue {
+    color: #555;
+    width: fit-content;
+    font-weight: bold;
+}
+
+.publication-awards {
+    color: #ff3860;
+    width: fit-content;
+    font-weight: bolder;
+}
+
+.publication-authors {
+}
+
+.author-block {
+  font-size: 16px;
+  padding: 0 5px;
+  display: inline-block;
+}
+
+.publication-banner img {
+}
+
+.publication-authors {
+  /*color: #4286f4;*/
+}
+
+.publication-video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+
+    overflow: hidden;
+    border-radius: 10px !important;
+}
+
+.publication-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.publication-body img {
+}
+
+.results-carousel {
+  overflow: hidden;
+}
+
+.results-carousel .item {
+  margin: 5px;
+  overflow: hidden;
+  padding: 20px;
+  font-size: 0;
+}
+
+.results-carousel video {
+  margin: 0;
+}
+
+.slider-pagination .slider-page {
+  background: #000000;
+}
+
+.eql-cntrb {
+  font-size: smaller;
+}
+
+
+
+
+body{
+    font-weight: 200;
+    font-size: 16px;
+    /*background-color: rgb(43, 60, 197);*/
+    /*color: rgb(0, 79, 241);*/
+    /*color: white;*/
+    border-top:5px solid rgb(255, 180, 240);
+    /*border-bottom:5px solid orange;*/
+}
+b{
+  color:rgb(0, 79, 241);
+}
+
+.title{
+  text-align: center;
+}
+
+.posts{
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    font-size: 14px;
+
+}
+.news{
+  line-height: 1.5em;
+}
+.post{
+  border-left: 5px solid rgb(255, 180, 240);
+}
+.xtitle{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    /* margin: 10px 0; */
+    /* font-weight: 400; */
+    /*color: rgb(0, 79, 241);*/
+}
+
+.posts .teaser{
+    width: 160px;
+    height: 120px;
+    float: left;
+    margin: 0 0 10px 10px;
+}
+
+.link-block{
+  margin: 0 10px;
+}
+
+a{
+  color: #111;
+  position: relative;
+}
+
+.emojilink:after{
+  background-color: rgba(255,211,30, 0.0)
+  /*rgba(225, 166, 121, 0.0);*/
+}
+
+a:hover{
+  color: #ff3860;
+  text-decoration: none;
+}
+
+.entry{
+    position: relative;
+    top:0;
+    left: 20px;
+    margin-top: 5px;
+}
+
+.posts > .post{
+    border-bottom: 0;
+    padding-bottom:0em;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+.papertitle{
+    margin-top: 0px;
+    font-weight: 600;
+    font-size:16px;
+    font-style: italic;
+    /*font-style: italic;*/
+    /*height: 2.6em*/
+}
+
+
+
+.marquee-wrapper{
+  text-align:center;
+}
+.marquee-wrapper .container{
+  overflow:hidden;
+}
+.marquee-inner span{
+  float:left;
+  width:50%;
+}
+.marquee-wrapper .marquee-block{
+  --total-marquee-items:5;
+  height: 320px;
+  width: calc(250px * (var(--total-marquee-items)));
+  overflow: hidden;
+  box-sizing: border-box;
+  position: relative;
+  margin: 20px auto;
+  background:#f5f5f5;
+  padding: 30px 0;
+}
+.marquee-inner{
+  display: block;
+  width: 200%;
+  position: absolute;
+}
+.marquee-inner p{
+  font-weight: 800;
+  font-size: 30px;
+  font-family: cursive;
+}
+.marquee-inner.to-left{
+  animation: marqueeLeft 25s linear infinite;
+}
+.marquee-inner.to-right{
+  animation: marqueeRight 25s linear infinite;
+}
+.marquee-item{
+  width: 230px;
+  height: 230px;
+  display: inline-block;
+  margin: 0 10px;
+  float: left;
+  transition: all .2s ease-out;
+  background:#f9ecec;
+}
+
+.marquee-item img{
+  width: 230px;
+  height: 160px;
+}
+
+@keyframes marqueeLeft{
+  0% {
+    left: 0;
+  }
+  100% {
+    left: -100%;
+  }
+}
+@keyframes marqueeRight{
+  0% {
+    left: -100%;
+  }
+  100% {
+   left: 0;
+  }
+}
+
+
+.video-wrapper video {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -500;
+}
+.video-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: -100; /* this index depends on how much z-index your layout extends. Suppose if any of dom element in page already has an z-index to 1 then this can 2 for this page*/
+}
+
+
+.header{
+  position: relative;
+  color: white;
+  text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+}
+
+.header a{
+  color:white;
+}
+
+main {
+  overflow: scroll; /* overflow 为 scroll，来把滚动条设置到 main 元素上 */
+  height: 100vh;
+  scroll-snap-type: y mandatory; /* scroll-snap-type 需要两个值，第一个值为滚动贴合的方向，y 表示纵向滚动贴合，第二个值为贴合方式，mandatory 表示强制滚动，用户只要一滚动鼠标，下一屏内容就直接滚动上来进行贴合。 */
+  scroll-padding: 80px; /* 空车顶部菜单的高度 */
+  scroll-behavior: smooth; /* 添加平滑滚动效果 */
+}
+
+a:hover{
+  /* color:#ff3860; */
+  /* box-shadow: 0px 0px 20px black; */
+  text-shadow: 1px 1px 5px red, 0 0 1em blue, 0 0 0.2em blue;
+}
